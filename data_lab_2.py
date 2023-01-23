@@ -33,7 +33,7 @@ with open('BigData2016 (1).csv', newline='') as csvfile:
 
     for station in station_ls:
         print(stat_ls_min(station))
-        
+
     print(' ')
 
     for station in station_ls:
